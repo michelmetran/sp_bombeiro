@@ -1,22 +1,22 @@
-id_gb;gb_sigla;gb_nome;comando_sigla;comando_nome;endereco;numero;complemento;bairro;município;zona;cep;email;telefone_1;telefone_2
-1;1º GB;1º Grupamento de Bombeiros;CBM;Comando de Bombeiros Metropolitano;Rua José Bento;15;;Cambuci;São Paulo;Centro;01523-030;1gb@polmil.sp.gov.br;(11) 3396-2400;(11) 3396-2402
-2;2º GB;2º Grupamento de Bombeiros;CBM;Comando de Bombeiros Metropolitano;Alameda Barão de Piracicaba;126;;Campos Elíseos;São Paulo;Norte;01216-010;2gb@polmil.sp.gov.br;(11) 3223-8522;(11) 3223-8700
-3;3º GB;3º Grupamento de Bombeiros;CBM;Comando de Bombeiros Metropolitano;Rua Dr. João Inácio Teixeira;81;;Mooca;São Paulo;Leste;03181-070;3gb@polmil.sp.gov.br;(11) 3396-2480;
-4;4º GB;4º Grupamento de Bombeiros;CBM;Comando de Bombeiros Metropolitano;Rua Azem Abdala Azém;800;;Butantã;São Paulo;Sul;05593-090;4gb@polmil.sp.gov.br;(11) 3396-2520;
-5;5º GB;5º Grupamento de Bombeiros;CBM;Comando de Bombeiros Metropolitano;Avenida Mariana Ubaldina do Espírito Santo;731;;Bom Clima;Guarulhos;;07197-000;5gb@polmil.sp.gov.br;(11) 2468-2286;(11) 2468-1874
-8;8º GB;8º Grupamento de Bombeiros;CBM;Comando de Bombeiros Metropolitano;Avenida Prestes Maia;1111;;Campestre;Santo André;;09071-000;8gb@polmil.sp.gov.br;(11) 4993-5500;
-17;17º GB;17º Grupamento de Bombeiros;CBM;Comando de Bombeiros Metropolitano;;;;;;;;17gb@polmil.sp.gov.br;;
-18;18º GB;18º Grupamento de Bombeiros;CBM;Comando de Bombeiros Metropolitano;Rua Cabo PM José Maria Schiavelli;193;;Vila Porto;Barueri;;06410-335;18gb@polmil.sp.gov.br;(11) 4198-6202;(11) 4199-2955
-7;7º GB;7º Grupamento de Bombeiros;CBI-1;Comando de Bombeiros do Interior - Campinas;Rua José Paulino;792;;Centro;Campinas;;13013-001;7gb@polmil.sp.gov.br;(19) 3739-3004;
-15;15º GB;15º Grupamento de Bombeiros;CBI-1;Comando de Bombeiros do Interior - Campinas;Avenida Dom Aguirre;2233;;Jardim Santa Rosália;Sorocaba;;18081-029;15gb@polmil.sp.gov.br;(15) 2101-0193;(15) 2201-0200
-16;16º GB;16º Grupamento de Bombeiros;CBI-1;Comando de Bombeiros do Interior - Campinas;Avenida Américo Vespúcio;300;;Algodoal;Piracicaba;;13405-390;16gb@polmil.sp.gov.br;(19) 3421-3034;
-19;19º GB;19º Grupamento de Bombeiros;CBI-1;Comando de Bombeiros do Interior - Campinas;Rua Professor João Batista Curado;120;;Anhangabaú;Jundiaí;;13209-020;19gb@polmil.sp.gov.br;(11) 4521-2666;(11) 4521-2812
-9;9º GB;9º Grupamento de Bombeiros;CBI-2;Comando de Bombeiros do Interior - Bauru;Avenida Cavalheiro Paschoal Innechi;1538;;Jardim Independência;Ribeirão Preto;;14076-010;9gb@polmil.sp.gov.br;(16) 3615-4476;(16) 3615-2600
-10;10º GB;10º Grupamento de Bombeiros;CBI-2;Comando de Bombeiros do Interior - Bauru;Avenida Nelson Spielman;1219;;Centro;Marília;;17509-002;10gbcmt@polmil.sp.gov.br;(14) 3424-9944;(14) 3413-9255
-12;12º GB;12º Grupamento de Bombeiros;CBI-2;Comando de Bombeiros do Interior - Bauru;Rua General Marcondes Salgado;232;;Centro;Bauru;;17010-040;12gb@polmil.sp.gov.br;(14) 3222-5553;(14) 3222-7711
-13;13º GB;13º Grupamento de Bombeiros;CBI-2;Comando de Bombeiros do Interior - Bauru;Avenida dos Estudantes;1946;;Boa Vista;São José do Rio Preto;;15025-310;13gb@polmil.sp.gov.br;(17) 3222-2600;
-14;14º GB;14º Grupamento de Bombeiros;CBI-2;Comando de Bombeiros do Interior - Bauru;Avenida Joaquim Constantino;351;;Vila Formosa;Presidente Prudente;;19053-300;14gbb3op@polmil.sp.gov.br;(18) 3223-2002;
-20;20º GB;20º Grupamento de Bombeiros;CBI-2;Comando de Bombeiros do Interior - Bauru;Rua Tenente Alcides Teodoro Santos;193;;Santana;Araçatuba;;16055-250;20gb@polmil.sp.gov.br;(18) 3623-3355;
-6;6º GB;6º Grupamento de Bombeiros;CBI-3;Comando de Bombeiros do Interior - Guarujá;Avenida Conselheiro Nébias;184;;Vila Nova;Santos;;11015-000;6gb@polmil.sp.gov.br;(13) 3235-1413;
-11;11º GB;11º Grupamento de Bombeiros;CBI-3;Comando de Bombeiros do Interior - Guarujá;Rua Professor Felicio Savastano;350;;Vila Industrial;São José dos Campos;;12220-270;11gbcomsoc@polmil.sp.gov.br;(12) 3912-5590;
-99;GBMAR;Grupamento de Bombeiros Marítimo;CBI-3;Comando de Bombeiros do Interior - Guarujá;Rua Sargento Wagner Lamela;145;;Vila Funchal;Guarujá;;11432-070;;;
+id_gb,gb_sigla,gb_nome,comando_sigla,comando_nome,endereco,numero,complemento,bairro,município,zona,cep,email,telefone_1,telefone_2
+1,1º GB,1º Grupamento de Bombeiros,CBM,Comando de Bombeiros Metropolitano,Rua José Bento,15.0,,Cambuci,São Paulo,Centro,01523-030,1gb@polmil.sp.gov.br,(11) 3396-2400,(11) 3396-2402
+2,2º GB,2º Grupamento de Bombeiros,CBM,Comando de Bombeiros Metropolitano,Alameda Barão de Piracicaba,126.0,,Campos Elíseos,São Paulo,Norte,01216-010,2gb@polmil.sp.gov.br,(11) 3223-8522,(11) 3223-8700
+3,3º GB,3º Grupamento de Bombeiros,CBM,Comando de Bombeiros Metropolitano,Rua Dr. João Inácio Teixeira,81.0,,Mooca,São Paulo,Leste,03181-070,3gb@polmil.sp.gov.br,(11) 3396-2480,
+4,4º GB,4º Grupamento de Bombeiros,CBM,Comando de Bombeiros Metropolitano,Rua Azem Abdala Azém,800.0,,Butantã,São Paulo,Sul,05593-090,4gb@polmil.sp.gov.br,(11) 3396-2520,
+5,5º GB,5º Grupamento de Bombeiros,CBM,Comando de Bombeiros Metropolitano,Avenida Mariana Ubaldina do Espírito Santo,731.0,,Bom Clima,Guarulhos,,07197-000,5gb@polmil.sp.gov.br,(11) 2468-2286,(11) 2468-1874
+8,8º GB,8º Grupamento de Bombeiros,CBM,Comando de Bombeiros Metropolitano,Avenida Prestes Maia,1111.0,,Campestre,Santo André,,09071-000,8gb@polmil.sp.gov.br,(11) 4993-5500,
+17,17º GB,17º Grupamento de Bombeiros,CBM,Comando de Bombeiros Metropolitano,,,,,,,,17gb@polmil.sp.gov.br,,
+18,18º GB,18º Grupamento de Bombeiros,CBM,Comando de Bombeiros Metropolitano,Rua Cabo PM José Maria Schiavelli,193.0,,Vila Porto,Barueri,,06410-335,18gb@polmil.sp.gov.br,(11) 4198-6202,(11) 4199-2955
+7,7º GB,7º Grupamento de Bombeiros,CBI-1,Comando de Bombeiros do Interior - Campinas,Rua José Paulino,792.0,,Centro,Campinas,,13013-001,7gb@polmil.sp.gov.br,(19) 3739-3004,
+15,15º GB,15º Grupamento de Bombeiros,CBI-1,Comando de Bombeiros do Interior - Campinas,Avenida Dom Aguirre,2233.0,,Jardim Santa Rosália,Sorocaba,,18081-029,15gb@polmil.sp.gov.br,(15) 2101-0193,(15) 2201-0200
+16,16º GB,16º Grupamento de Bombeiros,CBI-1,Comando de Bombeiros do Interior - Campinas,Avenida Américo Vespúcio,300.0,,Algodoal,Piracicaba,,13405-390,16gb@polmil.sp.gov.br,(19) 3421-3034,
+19,19º GB,19º Grupamento de Bombeiros,CBI-1,Comando de Bombeiros do Interior - Campinas,Rua Professor João Batista Curado,120.0,,Anhangabaú,Jundiaí,,13209-020,19gb@polmil.sp.gov.br,(11) 4521-2666,(11) 4521-2812
+9,9º GB,9º Grupamento de Bombeiros,CBI-2,Comando de Bombeiros do Interior - Bauru,Avenida Cavalheiro Paschoal Innechi,1538.0,,Jardim Independência,Ribeirão Preto,,14076-010,9gb@polmil.sp.gov.br,(16) 3615-4476,(16) 3615-2600
+10,10º GB,10º Grupamento de Bombeiros,CBI-2,Comando de Bombeiros do Interior - Bauru,Avenida Nelson Spielman,1219.0,,Centro,Marília,,17509-002,10gbcmt@polmil.sp.gov.br,(14) 3424-9944,(14) 3413-9255
+12,12º GB,12º Grupamento de Bombeiros,CBI-2,Comando de Bombeiros do Interior - Bauru,Rua General Marcondes Salgado,232.0,,Centro,Bauru,,17010-040,12gb@polmil.sp.gov.br,(14) 3222-5553,(14) 3222-7711
+13,13º GB,13º Grupamento de Bombeiros,CBI-2,Comando de Bombeiros do Interior - Bauru,Avenida dos Estudantes,1946.0,,Boa Vista,São José do Rio Preto,,15025-310,13gb@polmil.sp.gov.br,(17) 3222-2600,
+14,14º GB,14º Grupamento de Bombeiros,CBI-2,Comando de Bombeiros do Interior - Bauru,Avenida Joaquim Constantino,351.0,,Vila Formosa,Presidente Prudente,,19053-300,14gbb3op@polmil.sp.gov.br,(18) 3223-2002,
+20,20º GB,20º Grupamento de Bombeiros,CBI-2,Comando de Bombeiros do Interior - Bauru,Rua Tenente Alcides Teodoro Santos,193.0,,Santana,Araçatuba,,16055-250,20gb@polmil.sp.gov.br,(18) 3623-3355,
+6,6º GB,6º Grupamento de Bombeiros,CBI-3,Comando de Bombeiros do Interior - Guarujá,Avenida Conselheiro Nébias,184.0,,Vila Nova,Santos,,11015-000,6gb@polmil.sp.gov.br,(13) 3235-1413,
+11,11º GB,11º Grupamento de Bombeiros,CBI-3,Comando de Bombeiros do Interior - Guarujá,Rua Professor Felicio Savastano,350.0,,Vila Industrial,São José dos Campos,,12220-270,11gbcomsoc@polmil.sp.gov.br,(12) 3912-5590,
+99,GBMAR,Grupamento de Bombeiros Marítimo,CBI-3,Comando de Bombeiros do Interior - Guarujá,Rua Sargento Wagner Lamela,145.0,,Vila Funchal,Guarujá,,11432-070,,,
