@@ -1,2 +1,2 @@
-# sp_bombeiro
-Divisão Administrativa dos Grupamentos de Bombeiros do Estado de São Paulo
+# Bombeiro
+*Script* que atualiza a divisão administrativa dos Grupamentos de Bombeiros do Estado de São Paulo.
