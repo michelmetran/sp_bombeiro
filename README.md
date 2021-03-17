@@ -1,6 +1,8 @@
 # Bombeiro
 
-<img align="right" src="https://github.com/michelmetran/sp_bombeiro/blob/main/imgs/logo_bombeiros.svg?raw=true" width="100" height="100" />
+<img align="right" src="https://github.com/michelmetran/sp_bombeiro/blob/main/imgs/logo_bombeiros.svg?raw=true" width="150" height="150" />
+
+
 
 *Script* que atualiza a divisão administrativa dos Grupamentos de Bombeiros do Estado de São Paulo, gerando uma tabela em *csv* com a indicação dos 645 munícipios paulistas a partir dos mapas obtidos no [*site* da instituição](http://www.corpodebombeiros.sp.gov.br/).
 
