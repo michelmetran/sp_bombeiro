@@ -13,7 +13,7 @@
    version="1.1"
    id="svg32"
    inkscape:version="1.0.2 (1.0.2+r75+1)"
-   sodipodi:docname="logo_tjsp.svg">
+   sodipodi:docname="logo_bombeiros.svg">
   <defs
      id="defs26" />
   <sodipodi:namedview
@@ -23,17 +23,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.75900673"
-     inkscape:cx="396.85039"
-     inkscape:cy="561.25984"
+     inkscape:zoom="0.2683494"
+     inkscape:cx="343.15843"
+     inkscape:cy="821.27612"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1866"
-     inkscape:window-height="1043"
-     inkscape:window-x="1420"
-     inkscape:window-y="0"
+     inkscape:window-width="1312"
+     inkscape:window-height="704"
+     inkscape:window-x="54"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata29">
@@ -62,7 +62,9 @@
        inkscape:export-ydpi="246.38002" />
     <g
        id="g414"
-       transform="matrix(0.24275759,0,0,0.24275759,9.1915927,74.552155)">
+       transform="matrix(0.24275759,0,0,0.24275759,9.1915927,74.552155)"
+       inkscape:export-xdpi="246"
+       inkscape:export-ydpi="246">
       <g
          id="g6">
         <circle
