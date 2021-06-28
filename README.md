@@ -8,11 +8,5 @@
 
 ## *To Do*
 
-<<<<<<< HEAD
 - Substituir o município de São Paulo (Capital) pela divisão de bairros, visando detalhar quais os Grupamentos atuam em cada bairro, visto tratar-se do único município que mais de um Grupamento de Bombeiros tem atuação.
 - Conctatenar na tabela de municípios as informações detalhadas do Grupamento Marítimo, que atuam em municípios costeiros.
-
-=======
-- Substituir o município de São Paulo (Capital) pela divisão de bairros, visando detalhar quais os Grupamentos atuam em cada bairro, visto tratar-se do único município que mais de um Grupamento de Bombeiros tem atuação...
-- Conctatenar na tabela de municípios as informações detalhadas do Grupamento Marítimo, que atuam em municípios costeiros...
->>>>>>> 00d941507eb9150da837da75f33500c955fb5d9c
